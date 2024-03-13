@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg917"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="celholder-simple.svg">
+  <defs
+     id="defs911" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="366.57868"
+     inkscape:cy="513.55126"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="869"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <metadata
+     id="metadata914">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.468768,47.657507 c -4.628001,0 -8.353893,3.749257 -8.353893,8.406924 V 218.25726 c 0,4.65766 3.725892,8.40744 8.353893,8.40744 h 11.404969 v -5.42637 c 0,-2.73686 2.189087,-4.94049 4.908518,-4.94049 h 19.672435 c 2.71943,0 4.90852,2.20363 4.90852,4.94049 v 5.42637 h 11.40497 c 4.628,-1e-5 8.35389,-3.74978 8.35389,-8.40744 V 56.064431 c 0,-4.657667 -3.72589,-8.406924 -8.35389,-8.406924 z"
+       id="rect1462"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19150694;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.084275,47.65326 c -2.081228,0 -3.756664,1.499372 -3.756664,3.361888 v 7.116961 h -0.01602 v 89.329651 h 17.431665 v -17.82893 h 14.94498 v 17.82893 h 17.43169 V 58.132109 h -0.016 v -7.116961 c 0,-1.862516 -1.67544,-3.361888 -3.75667,-3.361888 z"
+       id="rect1464"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19895133;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1501"
+       width="18.201048"
+       height="4.0010486"
+       x="83.161011"
+       y="191.20717" />
+    <rect
+       y="191.20717"
+       x="115.6569"
+       height="4.0010486"
+       width="18.201048"
+       id="rect1505"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19895133;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67770624px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16694266"
+       x="27.075766"
+       y="240.84868"
+       id="text1512"><tspan
+         sodipodi:role="line"
+         id="tspan1510"
+         x="27.075766"
+         y="240.84868"
+         style="stroke-width:0.16694266">delete-me before cut - shape for plywood 4 mm</tspan></text>
+  </g>
+</svg>
