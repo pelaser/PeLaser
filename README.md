@@ -1,7 +1,6 @@
 ### Hi there 👋
 
     🔭 I’m currently working on Lasercut shapes on various materials
-    🌱 I've just started learning lasering materials, so I'm testing and improving my skills
     📫 How to reach me: at the moment it is not possible... I'm looking to implement some communication channels soon
 <!--
 **pelaser/PeLaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
